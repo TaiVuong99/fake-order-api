@@ -1,1 +1,1 @@
-# fake-order-api
+# fake-product-api-json-server
